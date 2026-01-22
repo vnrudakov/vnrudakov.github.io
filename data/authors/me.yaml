@@ -1,21 +1,8 @@
 name: Victor Rudakov
 role: Postdoctoral Researcher
 organization: Freie Universität Berlin
-email: victor.rudakov@fu-berlin.de
 
-# Short bio shown on the homepage
 bio: >
-  I am a Postdoctoral Researcher at the Chair of Applied Statistics at Freie Universität Berlin.
-  My research interests include labor economics, economics of education, and political economy.
-
-# Optional: pronouns (remove the line if you do not want it)
-pronouns: ""
-
-social:
-  - icon: google-scholar
-    link: "https://scholar.google.com/"
-  - icon: github
-    link: "https://github.com/vnrudakov"
-  - icon: envelope
-    link: "mailto:victor.rudakov@fu-berlin.de"
+  I am a Postdoctoral Researcher at the Chair of Applied Statistics
+  at Freie Universität Berlin.
 
